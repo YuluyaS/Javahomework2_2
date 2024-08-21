@@ -21,4 +21,6 @@ public class Main {
             balance = account + sum;
 
             System.out.println("Бонусов не начислено. Итоговый баланс " + balance + " рублей.");
-        }}}
+        }
+    }
+}
